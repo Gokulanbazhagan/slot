@@ -17,7 +17,7 @@ Add your timetable
 Execute the program
 
 # CODE
-'''
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -112,13 +112,15 @@ Execute the program
 </table>
 </body>
 </html>
-'''
+```
 
 # OUPUT
-![OUTPUT](http://gokularamanank.student.saveetha.in:8000/static/images/out.png?raw=true)
+![time table](https://user-images.githubusercontent.com/119518996/215162465-9378c7a1-b46c-4ac4-aad8-b9593c32de5f.png)
+
 
 # HTML  VALIDATOR
-![HTML  VALIDATOR](http://gokularamanank.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![valid](https://user-images.githubusercontent.com/119518996/215162553-2713db8a-8153-4c74-b756-acb08f3794f0.png)
+
 
 # RESULT
 The program for creating time table is completed successfully
